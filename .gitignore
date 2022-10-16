@@ -128,4 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-*.pdf
+2-numpy/other/*.pdf
+2-numpy/other/datacamp-Introduction-to-NumPy/*.pdf
+3-pandas/other/*.pdf
